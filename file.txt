@@ -1,0 +1,8 @@
+<code><pre>
+file.txt
+==========
+
+This is the contents of file.txt
+
+//EOF
+</pre></code>
